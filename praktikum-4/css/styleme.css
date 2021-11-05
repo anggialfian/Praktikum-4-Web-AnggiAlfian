@@ -7,16 +7,21 @@
     margin-right: 35px;
 }
 .fontarticle {
-    font-size: 30px;
+    font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #articlemargin {
     margin-left: 35px;
     margin-right: 35px;
     margin-bottom: 20px;
+    margin-top: 20px;
 }
 .fieldset {
     width: 320px;
     height: 280px;
     text-align: center;
+}
+.attachment {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
